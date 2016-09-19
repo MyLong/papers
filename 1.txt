@@ -34,7 +34,7 @@
 	"android:apk-key-hash:qhuAUk3jKIeoGs0HHbpsu0oCOg0",
 	"android:apk-key-hash:vam5raaXfMh1J/jWunLyWXNsuC8",
         "ios:bundle-id:com.jv.fido",
-	"ios:bundle-id:jv.testdemo20"£¬
+	"ios:bundle-id:jv.testdemo20",
 	"android:apk-key-hash:EBC92EsCbstF6YKAm0PEU9hEqIQ"
       ]
     }

@@ -1,0 +1,42 @@
+{
+  "trustedFacets": [
+    {
+      "version": {
+         "major": 1,
+        "minor": 0
+      },
+      "ids": [
+        "https://eval31.noknoklabs.cn:8443/SampleApp",
+        "com.noknok.android.framework.service",
+        "com.noknok.ios.tutorialapp",
+        "com.wangyin.ios.tutorialapp",
+        "com.wangyin.wallet",
+        "com.bestpay.OrangeCertificSDKDemo",
+        "com.noknok.android.sampleapp",
+        "com.noknok.ios.sampleapp",
+        "com.noknok.ios.tutorialapp",
+        "ios:bundle-id:com.bestpay.mediacenter.test",
+        "android:apk-key-hash:lXHH7DSBcDnOS1RQ1Sd95KaitYA",
+        "android:apk-key-hash:iKp3zCOLJ+LbifBnOA1iseOINwE",
+        "android:apk-key-hash:WtGxaY4d26K9TMBJKrNQoQRtM30",
+	"android:apk-key-hash:JxluOGuHXnat9wDn6oTkxu7jPfo",
+	"android:apk-key-hash:z1pn3+lEl4skDA46t6JmA0EPi7M",
+	"android:apk-key-hash:WPwBhAASFvTakgtgRgc7v76aaic",
+	"android:apk-key-hash:X/iWpydw1CJe40Oc7PVQom4dlws",
+	"android:apk-key-hash:SvYZ4Sgas9T2+6DpNj566iscuns",
+	"android:apk-key-hash:e4EK13jXB/Qn6xT5mzpIEN6FnI0",
+	"android:apk-key-hash:9w30Lo9oBWlC18sHY+eQDAaGPVs",
+	"android:apk-key-hash:ZgU5MkEREkH8X21MYwHiwO3fHME",
+	"com.webank.mbank.sit",
+	"com.webank.mbank",
+	"android:apk-key-hash:0NxcHt2hPkGaBhMwTQhRJI7+ouA",
+	"android:apk-key-hash:SFdk+JnDXjD2iEfcYhtErBRfIqE",
+	"android:apk-key-hash:qhuAUk3jKIeoGs0HHbpsu0oCOg0",
+	"android:apk-key-hash:vam5raaXfMh1J/jWunLyWXNsuC8",
+        "ios:bundle-id:com.jv.fido",
+	"ios:bundle-id:jv.testdemo20"£¬
+	"android:apk-key-hash:EBC92EsCbstF6YKAm0PEU9hEqIQ"
+      ]
+    }
+  ]
+}
